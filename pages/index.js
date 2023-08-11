@@ -3,7 +3,7 @@ import img1 from "./icon/slider_image_1.jpg";
 import img2 from "./icon/slider_image_2.jpg";
 import img3 from "./icon/slider_image_3.jpg";
 import img4 from "./icon/slider_image_4.jpg";
-import img5 from "./icon/slider_image_5jpg";
+import img5 from "./icon/slider_image_5.jpg";
 import Image from "next/image";
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
